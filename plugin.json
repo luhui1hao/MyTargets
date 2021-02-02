@@ -1,0 +1,18 @@
+{
+	"pluginName": "想要的东西",
+    "description": "可以在计算的数字前面加文本的小工具",
+    "author": "超级无敌大飞哥",
+	"main": "index.html",
+    "version": "0.0.1",
+    "logo": "logo.jpg",
+	"features": [
+		{
+		  "code": "target",
+		  "explain": "How much your targets need?",
+			"cmds":["target", "目标"]
+		}
+    ],
+    "development": {
+        
+    }
+}
